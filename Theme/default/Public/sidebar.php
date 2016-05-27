@@ -1,0 +1,1 @@
+<?php echo mc_option('sidebar'); ?>

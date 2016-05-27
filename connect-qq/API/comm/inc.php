@@ -1,0 +1,2 @@
+<?php die('forbidden'); ?>
+{"appid":"这里填写appid","appkey":"这里填写appkey","callback":"http://这里填写你的网址/user-login-connect_qq.html","scope":"get_user_info","errorReport":true,"storageType":"file","host":"localhost","user":"root","password":"root","database":"test"}
